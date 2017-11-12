@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\bin\Debug\POSCOFFEE.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\bin\Debug\POSCOFFEE.exe
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\bin\Debug\POSCOFFEE.pdb
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.exe
+c:\users\acer\documents\visual studio 2017\Projects\POSCOFFEE\POSCOFFEE\obj\Debug\POSCOFFEE.pdb
